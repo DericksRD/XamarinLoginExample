@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jrWDHKy+AYQbZSkyOqpJifQvW16DrLOlN3iK7ImhEiDpxzarHfA6wEecTD0c6GFwIbjT9ggLxP/5XB3nTh14kw==",
+  "dgSpecHash": "4WnZlnRVklb2lJjweZOvVBUr5U4DO3iV1WRkgmZRgEjeVzPZaRlaB3FdtZwrdq0rclCDhI9BO31Xwv+6m6ksJA==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj",
+  "projectFilePath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

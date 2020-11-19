@@ -12,9 +12,10 @@ namespace XamarinLoginExample
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HomePage : TabbedPage
     {
-        public HomePage()
+        public HomePage(string name)
         {
             InitializeComponent();
+            title.Text = $"Hola {name}";
         }
     }
 }

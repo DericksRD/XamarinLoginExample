@@ -3,7 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinLoginExample.HomePage">
   <!--Pages can be added as references or inline-->
-  <ContentPage Title="Home" />
-  <ContentPage Title="Option 1" />
-  <ContentPage Title="Option 2" />
+    <ContentPage Title="Home" >
+        <Label x:Name="title"></Label>
+    </ContentPage>
+    <ContentPage Title="Option 1" />
+    <ContentPage Title="Option 2" />
 </TabbedPage>

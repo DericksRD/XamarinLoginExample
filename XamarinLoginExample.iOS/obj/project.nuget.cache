@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KEVLKmVJcz5HT01iAqS96ml06AYVw+3q7fFYdtEE1OIqC7GMJBQ6j9FEQDNu/b8Pa8biXI2xvlW9GZ/e9zXNLw==",
+  "dgSpecHash": "iM61XL/RxXrvYPqK5on5iGotXZtiEFNcZVJONN29Hqooxbwn8uu3Bk//DHnd7OOz5w4R33NMLdAkwo4qXt8/Ig==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.iOS\\XamarinLoginExample.iOS.csproj",
+  "projectFilePath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.iOS\\XamarinLoginExample.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"

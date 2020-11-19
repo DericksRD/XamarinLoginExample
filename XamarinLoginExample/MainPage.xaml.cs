@@ -35,19 +35,20 @@ namespace XamarinLoginExample
 
             if (empty)
             {
-                await DisplayAlert("Action can't be completed",
-                                   "Need to fill all the entries to log in", "Ok");
+                await DisplayAlert("No se puede completar la acción",
+                                   "Debe llenar todos los campos", "Ok");
             }
             else if (!password.Text.Equals(newPassword.Text))
             {
-                await DisplayAlert("Action can't be completed",
-                                   "The password need to be equal in both entries.",
+                await DisplayAlert("No se puede completar la acción",
+                                   "La contraseña debe ser igual en ambos campos",
                                    "OK");
             }
             else
             {
                 //Push to home page.
-                await Navigation.PushAsync(new HomePage());
+                await DisplayAlert("Bienvendio!", "", "Gracias");
+                await Navigation.PushAsync(new HomePage(name.Text));
             }
         }
         #endregion

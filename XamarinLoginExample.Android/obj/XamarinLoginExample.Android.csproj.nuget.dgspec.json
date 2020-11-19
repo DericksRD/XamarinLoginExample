@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj": {}
+    "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj": {
+    "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj",
+        "projectUniqueName": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj",
         "projectName": "XamarinLoginExample.Android",
-        "projectPath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj",
+        "projectPath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.Android\\XamarinLoginExample.Android.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample.Android\\obj\\",
+        "outputPath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj": {
-                "projectPath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj"
+              "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj": {
+                "projectPath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj": {
+    "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj",
+        "projectUniqueName": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj",
         "projectName": "XamarinLoginExample",
-        "projectPath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj",
+        "projectPath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\obj\\",
+        "outputPath": "D:\\Documentos\\Repos\\XamarinLoginExample\\XamarinLoginExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
