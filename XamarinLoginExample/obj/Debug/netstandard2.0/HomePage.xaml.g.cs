@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinLoginExample.HomePage.xaml", "HomePage.xaml", typeof(global::XamarinLoginExample.TabbedPage1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinLoginExample.HomePage.xaml", "HomePage.xaml", typeof(global::XamarinLoginExample.HomePage))]
 
 namespace XamarinLoginExample {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("HomePage.xaml")]
-    public partial class TabbedPage1 : global::Xamarin.Forms.TabbedPage {
+    public partial class HomePage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TabbedPage1));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HomePage));
         }
     }
 }

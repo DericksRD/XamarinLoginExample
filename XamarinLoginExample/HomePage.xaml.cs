@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace XamarinLoginExample
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class TabbedPage1 : TabbedPage
+    public partial class HomePage : TabbedPage
     {
-        public TabbedPage1()
+        public HomePage()
         {
             InitializeComponent();
         }

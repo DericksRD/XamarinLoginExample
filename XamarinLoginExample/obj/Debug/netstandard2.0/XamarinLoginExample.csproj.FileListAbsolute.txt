@@ -12,3 +12,4 @@ D:\Visual Studio 2019\Desarrollo Movil\XamarinLoginExample\XamarinLoginExample\o
 D:\Visual Studio 2019\Desarrollo Movil\XamarinLoginExample\XamarinLoginExample\obj\Debug\netstandard2.0\XamarinLoginExample.dll
 D:\Visual Studio 2019\Desarrollo Movil\XamarinLoginExample\XamarinLoginExample\obj\Debug\netstandard2.0\ref\XamarinLoginExample.dll
 D:\Visual Studio 2019\Desarrollo Movil\XamarinLoginExample\XamarinLoginExample\obj\Debug\netstandard2.0\XamarinLoginExample.pdb
+D:\Visual Studio 2019\Desarrollo Movil\XamarinLoginExample\XamarinLoginExample\obj\Debug\netstandard2.0\HomePage.xaml.g.cs

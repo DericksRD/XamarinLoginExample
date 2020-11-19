@@ -3,9 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinLoginExample.MainPage">
 
-    <StackLayout>
+    <StackLayout VerticalOptions="CenterAndExpand">
         <Image Source="LogoIntec.png"
-               HeightRequest="150">
+               HeightRequest="100"
+               Margin="20">
         </Image>
 
         <Entry Placeholder="Name" x:Name="name"></Entry>
