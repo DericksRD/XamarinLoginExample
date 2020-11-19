@@ -9,5 +9,5 @@ To log in, you must complete all the entries, and be aware that both passord's a
 
 Finally, you will get into de home page, which have a label with the name that you wrote in the initial page.
 ![](Bienvenido.jpeg)
-
-![](Home_Page.jepg)
+        
+![](Home_Page.jpeg)
