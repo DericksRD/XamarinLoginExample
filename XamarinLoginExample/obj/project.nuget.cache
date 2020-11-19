@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOx9CujM/Gp7oGblV1JnOxCjFcw3theMDEZnvnQ4mnCPkiRLR7kHW7t26bAGKI4KPLH16AlzUhjFaHk99O//Jg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio 2019\\Desarrollo Movil\\XamarinLoginExample\\XamarinLoginExample\\XamarinLoginExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

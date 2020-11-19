@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinLoginExample.MainPage">
+
+    <StackLayout>
+        <Image Source="LogoIntec.png"
+               HeightRequest="150">
+        </Image>
+
+        <Entry Placeholder="Name" x:Name="name"></Entry>
+        <Entry Placeholder="Email" x:Name="email"></Entry>
+        <Entry Placeholder="Password" IsPassword="True" x:Name="password"></Entry>
+        <Entry Placeholder="Repeat password" IsPassword="True" x:Name="newPassword"></Entry>
+        <Button Text="Ingresar" Clicked="ButtonClicked"></Button>
+    </StackLayout>
+
+</ContentPage>
